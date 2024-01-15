@@ -1,1 +1,4 @@
 .env
+Outputs/
+Others/
+.DS_Store
